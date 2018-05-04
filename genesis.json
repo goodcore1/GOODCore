@@ -1,6 +1,6 @@
 {
-  "initial_timestamp": "2018-04-19T04:50:30",
-  "max_core_supply": "1000000000000000",
+  "initial_timestamp": "2018-05-03T06:57:15",
+   "max_core_supply": "200000000000000",
   "initial_parameters": {
     "current_fees": {
       "parameters": [
@@ -339,69 +339,69 @@
   },
   "initial_accounts": [
     {
-      "name": "tacowner",
-      "owner_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
-      "active_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "name": "goodowner",
+      "owner_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "active_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
       "is_lifetime_member": true
     },
     {
-      "name": "tacowner1",
-      "owner_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
-      "active_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "name": "goodowner1",
+      "owner_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "active_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
       "is_lifetime_member": true
     },
     {
-      "name": "tacowner2",
-      "owner_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
-      "active_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "name": "goodowner2",
+      "owner_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "active_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
       "is_lifetime_member": true
     },
     {
-      "name": "tacowner3",
-      "owner_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
-      "active_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "name": "goodowner3",
+      "owner_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "active_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
       "is_lifetime_member": true
     },
     {
-      "name": "tacowner4",
-      "owner_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
-      "active_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "name": "goodowner4",
+      "owner_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "active_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
       "is_lifetime_member": true
     },
     {
-      "name": "tacowner5",
-      "owner_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
-      "active_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "name": "goodowner5",
+      "owner_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "active_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
       "is_lifetime_member": true
     },
     {
-      "name": "tacowner6",
-      "owner_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
-      "active_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "name": "goodowner6",
+      "owner_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "active_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
       "is_lifetime_member": true
     },
     {
-      "name": "tacowner7",
-      "owner_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
-      "active_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "name": "goodowner7",
+      "owner_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "active_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
       "is_lifetime_member": true
     },
     {
-      "name": "tacowner8",
-      "owner_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
-      "active_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "name": "goodowner8",
+      "owner_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "active_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
       "is_lifetime_member": true
     },
     {
-      "name": "tacowner9",
-      "owner_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
-      "active_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "name": "goodowner9",
+      "owner_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "active_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
       "is_lifetime_member": true
     },
     {
-      "name": "tacowner10",
-      "owner_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
-      "active_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "name": "goodowner10",
+      "owner_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
+      "active_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ",
       "is_lifetime_member": true
     }
   ],
@@ -410,9 +410,9 @@
   ],
   "initial_balances": [
     {
-      "owner": "TACA4hiDfEsxoDUN5NW3pWuZhJY8276nAU66",
-      "asset_symbol": "TAC",
-      "amount": "700000000000000"
+      "owner": "GDCA4hiDfEsxoDUN5NW3pWuZhJY8276nAU66",
+      "asset_symbol": "GOOD",
+      "amount": "200000000000000"
     }
   ],
   "initial_vesting_balances": [
@@ -421,83 +421,83 @@
   "initial_active_witnesses": 11,
   "initial_witness_candidates": [
     {
-      "owner_name": "tacowner",
-      "block_signing_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
+      "owner_name": "goodowner",
+      "block_signing_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
     },
     {
-      "owner_name": "tacowner1",
-      "block_signing_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
+      "owner_name": "goodowner1",
+      "block_signing_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
     },
     {
-      "owner_name": "tacowner2",
-      "block_signing_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
+      "owner_name": "goodowner2",
+      "block_signing_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
     },
     {
-      "owner_name": "tacowner3",
-      "block_signing_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
+      "owner_name": "goodowner3",
+      "block_signing_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
     },
     {
-      "owner_name": "tacowner4",
-      "block_signing_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
+      "owner_name": "goodowner4",
+      "block_signing_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
     },
     {
-      "owner_name": "tacowner5",
-      "block_signing_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
+      "owner_name": "goodowner5",
+      "block_signing_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
     },
     {
-      "owner_name": "tacowner6",
-      "block_signing_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
+      "owner_name": "goodowner6",
+      "block_signing_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
     },
     {
-      "owner_name": "tacowner7",
-      "block_signing_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
+      "owner_name": "goodowner7",
+      "block_signing_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
     },
     {
-      "owner_name": "tacowner8",
-      "block_signing_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
+      "owner_name": "goodowner8",
+      "block_signing_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
     },
     {
-      "owner_name": "tacowner9",
-      "block_signing_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
+      "owner_name": "goodowner9",
+      "block_signing_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
     },
     {
-      "owner_name": "tacowner10",
-      "block_signing_key": "TAC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
+      "owner_name": "goodowner10",
+      "block_signing_key": "GDC54Af8hHnJntdL1gnDBzPwmKh4GayHoQyncouBu6fJbAhCLuuwJ"
     }
   ],
   "initial_committee_candidates": [
     {
-      "owner_name": "tacowner"
+      "owner_name": "goodowner"
     },
     {
-      "owner_name": "tacowner1"
+      "owner_name": "goodowner1"
     },
     {
-      "owner_name": "tacowner2"
+      "owner_name": "goodowner2"
     },
     {
-      "owner_name": "tacowner3"
+      "owner_name": "goodowner3"
     },
     {
-      "owner_name": "tacowner4"
+      "owner_name": "goodowner4"
     },
     {
-      "owner_name": "tacowner5"
+      "owner_name": "goodowner5"
     },
     {
-      "owner_name": "tacowner6"
+      "owner_name": "goodowner6"
     },
     {
-      "owner_name": "tacowner7"
+      "owner_name": "goodowner7"
     },
     {
-      "owner_name": "tacowner8"
+      "owner_name": "goodowner8"
     },
     {
-      "owner_name": "tacowner9"
+      "owner_name": "goodowner9"
     },
     {
-      "owner_name": "tacowner10"
+      "owner_name": "goodowner10"
     }
   ],
   "initial_worker_candidates": [
