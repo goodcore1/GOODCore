@@ -1,0 +1,13 @@
+{
+  "chain_id": "8f844389b9aee6782bcf6f609075e3e9882502574df7853eabf88b832576a1ba",
+  "my_accounts": [],
+  "cipher_keys": "",
+  "extra_keys": [],
+  "pending_account_registrations": [],
+  "pending_witness_registrations": [],
+  "labeled_keys": [],
+  "blind_receipts": [],
+  "ws_server": "ws://192.168.0.116:8056",
+  "ws_user": "",
+  "ws_password": ""
+}

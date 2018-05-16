@@ -1,13 +1,13 @@
 {
   "initial_timestamp": "2018-05-03T06:57:15",
-   "max_core_supply": "200000000000000",
+   "max_core_supply": "1000000000000000",
   "initial_parameters": {
     "current_fees": {
       "parameters": [
         [
           0,
           {
-            "fee": 100000,
+            "fee": 0,
             "price_per_kbyte": 0
           }
         ],
@@ -26,7 +26,7 @@
         [
           3,
           {
-            "fee": 2000000
+            "fee": 0
           }
         ],
         [
@@ -46,14 +46,14 @@
         [
           6,
           {
-            "fee": 2000000,
+            "fee": 0,
             "price_per_kbyte": 0
           }
         ],
         [
           7,
           {
-            "fee": 300000
+            "fee": 0
           }
         ],
         [
@@ -326,7 +326,7 @@
     "cashback_vesting_threshold": 10000000,
     "count_non_member_votes": true,
     "allow_non_member_whitelists": false,
-    "witness_pay_per_block": 1000000,
+    "witness_pay_per_block": 0,
     "worker_budget_per_day": "50000000000",
     "max_predicate_opcode": 1,
     "fee_liquidation_threshold": 10000000,
@@ -412,7 +412,7 @@
     {
       "owner": "GDCA4hiDfEsxoDUN5NW3pWuZhJY8276nAU66",
       "asset_symbol": "GOOD",
-      "amount": "200000000000000"
+      "amount": "1000000000000000"
     }
   ],
   "initial_vesting_balances": [
